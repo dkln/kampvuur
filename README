@@ -1,0 +1,13 @@
+# Kampvuur
+
+Graphical chatclient using avatars in 8-bit style
+
+## Getting started
+
+Start the server:
+
+  ./script/server
+
+Go to http://localhost:3000/
+
+And do your thing!
